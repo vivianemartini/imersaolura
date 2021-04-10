@@ -8,3 +8,10 @@ Aluraflix <br>
 Tabela de objetos <br>
 Trunfo <br>
 Certificado <br>
+
+![](https://github.com/vivianemartini/imersaolura/blob/main/conversormoedas.JPG)
+
+![](https://github.com/vivianemartini/imersaolura/blob/main/calculadoraalura.JPG)
+
+
+![](https://github.com/vivianemartini/imersaolura/blob/main/aluraflix/aluraflix.JPG)
