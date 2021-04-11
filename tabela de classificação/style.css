@@ -1,0 +1,79 @@
+
+* {
+    text-align: center;
+}
+
+body {
+    font-family: 'Roboto Mono', monospace;
+    min-height: 400px;
+    background-image: url('https://free4kwallpapers.com/uploads/originals/2021/01/20/music-wallpaper.jpg');
+    background-color: #111;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+h1,h2 {
+    font-family:'Arial', Helvetica, sans-serif;
+    color: black;
+}
+
+.geral {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.container {
+    padding: 20px;
+    border-radius: 10px;
+    border: 2px;
+    border-collapse: collapse;
+}
+
+
+th, tr, td {
+    padding: 15px;
+    background-color: whitesmoke;
+    color: black;
+    text-align: center;
+}
+
+.add-info {
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    border: 2px;
+    border-collapse: collapse;
+}
+
+input {
+    border-radius: 8px;
+    height: 30px;
+    border: solid rgba(56, 56, 196, 0) 2px;
+    color: black;
+}
+
+button {
+    border-radius: 5px;
+    border-width: 0.1em;
+    width: 80px;
+    height: 40px;
+    cursor: pointer;
+    background-color: whitesmoke;
+    color: black;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 540;
+}
+
+button:hover{
+    background-color: rgb(177, 167, 167);
+    transition: 0.5s;
+}
+
+#tabelaJogadores img {
+    height: 80px;
+    width: 120px;
+    border-radius: 10px;
+}

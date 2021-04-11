@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Tabela de Classificação - Imersão Alura - aula 6</title>
+</head>
+<body>
+  
+    <h1>The Hot 100 da Billboard</h1>   
+    <h2>This week</h2>
+
+    <section class="geral"> 
+        <table class="container">
+            <thead>
+                <tr>
+                    <th>Artist</th>
+                    <th>Name</th>
+                    <th>Award</th>
+                    <th>Last week</th>
+                    <th>Points</th>
+                    <th></th>
+                    <th>Actions</th>
+                    <th></th>
+                </tr>
+            </thead>
+            
+            <tbody id="tabelaJogadores" class="tabela">
+            </tbody>
+        </table>
+
+        <div class="add-info">
+            <input type="text" placeholder="Add Image URL" id="addImagem">
+            <input type="text" placeholder="Add Artist Name" id="addNome">
+            <button onclick="adicionarPersonagem()">Add</button>
+        </div>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+</html>
