@@ -20,3 +20,5 @@ Certificado <br>
 ![](https://github.com/vivianemartini/imersaolura/blob/main/tabeladeclassifica%C3%A7%C3%A3o.JPG)
 
 ![](https://github.com/vivianemartini/imersaolura/blob/main/supertrunfo.JPG)
+
+![](https://github.com/vivianemartini/imersaolura/blob/main/certicard.JPG)
